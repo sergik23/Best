@@ -1,0 +1,20 @@
+
+p{color: chartreuse;font-size: 18px}
+ul{color: lime;font-size: 25px}
+a :hover{background: red;border: dashed }
+nav a:hover{background: red}
+a:active{background: red}
+nav a:active{background: red  }
+p:first-letter{color: blue;font-size: 25px}
+ li
+{list-style-type: none}
+ p @font-face { src:url(fonts/AguafinaScript-Regular.ttf)}
+
+@font-face {
+    src: url(fonts/1942.ttf)
+}
+@font-face {
+    src: url(fonts/GreatVibes-Regular.otf)
+}
+p{font-family: "Aguafina Script"}
+p{font-family: "Great Vibes"}
